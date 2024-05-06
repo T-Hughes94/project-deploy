@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import { AiOutlineMail } from 'react-icons/ai';
-import resume from '../assets/resume.pdf';
+import officialResume from '../assets/Official-resume.pdf';
 
 const AboutMe = () => {
   return (
@@ -39,7 +39,7 @@ const AboutMe = () => {
       {/* Download Resume Button */}
       <div className="mt-8"> {/* Ensure there's space between the social links and the button */}
         <a
-          href={resume} // Link to your resume file
+          href={officialResume} // Link to your resume file
           target="_blank" // Open in a new tab
           rel="noopener noreferrer"
           className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition duration-300"
