@@ -1,5 +1,5 @@
 import React from 'react';
-import jsLogo from '../assets/js-logo.png'; // Adjust the path to your language logos
+import jsLogo from '../assets/js-logo.png'; 
 import pythonLogo from '../assets/python-logo.png';
 import reactLogo from '../assets/react-logo.png';
 import sqlLogo from '../assets/sql-logo.png';
