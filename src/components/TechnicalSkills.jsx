@@ -15,7 +15,7 @@ const TechnicalSkills = () => {
     <div id="technical" className="max-w-[1040px] mx-auto md:pl-20 p-4 py-16 text-center">
       <h1 className="text-4xl font-bold text-[#001b5e]">Technical Skills</h1>
 
-      <p className="text-gray-700 text-lg my-4">Languages I have used. Click on the links for tutorials & documentation.</p>
+      <p className="text-gray-700 text-lg my-4">Languages and Frameworks I have used. Click on the links for tutorials & documentation.</p>
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 mt-8"> {/* Responsive grid layout */}
         
         {/* JavaScript */}
